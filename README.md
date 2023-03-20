@@ -1,0 +1,1 @@
+A simple project to learn about web application building with Java, Spring boot, React and MongoDB
